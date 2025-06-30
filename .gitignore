@@ -175,4 +175,3 @@ out/
 **/*.parquet
 **/log_*.txt
 **/*.safetensors
-**/*.json
